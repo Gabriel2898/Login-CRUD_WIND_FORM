@@ -1,0 +1,12 @@
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\trabajos visual\PARA PRACTICAR\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\trabajos visual\PARA PRACTICAR\todos\CRUD_WindForms\Capa_Datos\obj\Debug\Capa_Datos.pdb
